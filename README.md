@@ -3,7 +3,10 @@
 
 steps in videomaking App
 
-1. first login to video making App as email-rks.malhotra0002@gmial.com password-shubham12345
+1.first login to video making App as 
+
+email-rks.malhotra0002@gmial.com
+password-shubham12345
 
 2.Now we redirect to home page we can upload the video to firebase realtime database Android.
 
